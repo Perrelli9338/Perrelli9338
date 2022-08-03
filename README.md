@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🙋‍♂️, I'm Perrelli Marco</h1>
+<h1 align="center">Ciao 🙋‍♂️, I'm Perrelli Marco</h1>
 <h3 align="center">A high school student developer from Italy</h3>
 
 - 🌱 I’m currently learning **C++, Rust**
