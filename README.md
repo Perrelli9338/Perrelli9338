@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, Rust**
 
-- 👨‍💻 All of my projects are available at [prrmrc.github.io](prrmrc.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://prrmrc.github.io">[prrmrc.github.io](prrmrc.github.io)</a>
 
 - 📫 How to reach me **perrelli9338@luigidellerba.edu.it**
 
