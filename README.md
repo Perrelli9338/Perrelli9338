@@ -1,5 +1,5 @@
-<h1 align="center">Ciao 🙋‍♂️, I'm Perrelli Marco</h1> 
-<h3 align="center">A graduate student developer from Italy</h3> 
+<h1 align="center">Ciao 🙋‍♂️, I'm Marco Perrelli</h1> 
+<h3 align="center">A Junior Software Developer from Italy</h3> 
 
 ### 💪 I have experience in
 - Game development with **Bevy** and **Godot Mono**;
